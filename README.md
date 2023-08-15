@@ -23,6 +23,9 @@ Entre otros softwares para la creación de material gráfico, Adobe AfterEffects
 ## LinkedIn
 https://www.linkedin.com/in/bruno-leonel-a40110260/
 
+## Correo electrónico
+altairconnor12@gmail.com
+
 <!--
 **LeonBerry07/LeonBerry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
