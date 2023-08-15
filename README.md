@@ -1,5 +1,13 @@
 ### Hola, soy Bruno Leonel Mendiberry 👋
 
+Me desempeño como Desarrollador Fullstack orientado al Back-End, y con conocimientos de edición de fotografía.
+Soy un amante de la tecnología e informática desde toda la vida, tanto desde el apartado del hardware como el apartado del software.
+
+## Actualidad
+Desarrollo proyectos que me permitan crecer como programador, tanto desde el lado técnico como creativo. Dichos proyectos están relacionados a mis gustos personales e ideas que creo hacen falta implementar en la sociedad.
+
+
+
 <!--
 **LeonBerry07/LeonBerry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
